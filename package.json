@@ -1,0 +1,23 @@
+{
+  "name": "enset-mi",
+  "version": "1.0.0",
+  "description": "Pour tous les exercices, nous utiliserons **Boostrap CSS**, il suffit de cloner ce dépôt, d'entrer dans le dossier **_enset-mi_** puis d'exécuter :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-daaif/enset-mi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-daaif/enset-mi/issues"
+  },
+  "homepage": "https://github.com/a-daaif/enset-mi#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
